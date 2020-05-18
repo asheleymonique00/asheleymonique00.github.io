@@ -64,8 +64,19 @@ body {
 
 .content-container {
     display: flex;
+    justify-content: space-evenly;
 
+}
 
+.name {
+    margin: 50px 0px;
+}
+
+.aboutme p {
+    justify-content: space-evenly;
+}
+.techniques {
+    margin: 120px 0px;
 }
 
  .image-container {
