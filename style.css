@@ -72,8 +72,8 @@ body {
     margin: 50px 0px;
 }
 
-.aboutme p {
-    justify-content: space-evenly;
+.aboutmeinfo {
+    margin: 20px 0px;
 }
 .techniques {
     margin: 120px 0px;
